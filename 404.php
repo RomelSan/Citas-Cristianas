@@ -50,11 +50,11 @@
 				<br>
                 </div>
                 <div class="error-actions">
-                    <a href="http://www.logicminds.net" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>
+                    <a href="https://www.romelvera.com" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>
                         Regresar </a>
 					<br>
 					<br>
-					<a href="http://www.logicminds.net" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Soporte Técnico </a>
+					<a href="https://www.romelvera.com" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Soporte Técnico </a>
 					<br>
 					<br>
 					<a href="<?php $_SERVER['PHP_SELF']; ?>">Generar otra cita</a>

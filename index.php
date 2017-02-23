@@ -51,7 +51,7 @@
                         Decargar todas las citas </a>
 					<br>
 					<br>
-					<a href="mailto:info@logicminds.net" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Contacto </a>
+					<a href="mailto:info@romelvera.com" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Contacto </a>
 					<br>
 					<br>
 					<a href="<?php $_SERVER['PHP_SELF']; ?>">Generar otra cita</a>

@@ -1,9 +1,9 @@
 # Citas Cristianas
-Genera una cita cristiana al azar  
+Genera una cita cristiana al azar.  
 Para PHP.  
 Puede usar esto como un link normal o lo puede poner en un "404" (Sitio no encontrado)   
   
-Online Demo [Link](https://www.logicminds.net/GitHub/cristianas/)  
+Online Demo [Link](https://www.romelvera.com/github/cristianas/)  
 
 ### Uso:
 
